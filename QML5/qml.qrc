@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DrawScript.js</file>
+        <file>Star.qml</file>
+        <file>Ring.qml</file>
+        <file>House.qml</file>
+        <file>Watch.qml</file>
+    </qresource>
+</RCC>
